@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - Intro to JavaScript
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://ds4200-s22.github.io/ic-06-d-wei-leigh/
 
 ## Purpose
 
@@ -19,7 +19,7 @@ The purpose of this assignment is to start learning how to use JavaScript to add
 
 1. A JavaScript file (main.js) was included in your repo. Add this file to your index.html file as an **external** script file. All of your JavaScript programming should be contained in this file ([JavaScript Where To](https://www.w3schools.com/js/js_whereto.asp)).  
 
-1. Notice Button 1, and and the random_num div in your index.html file. Modify Button 1 so that "button1Clicked()" (in main.js) is called when Button 1 is clicked. Fill in the contents of button1Clicked() such that each time Button 1 is clicked a new random number is shown in the random_num div. 
+1. Notice Button 1, and the random_num div in your index.html file. Modify Button 1 so that "button1Clicked()" (in main.js) is called when Button 1 is clicked. Fill in the contents of button1Clicked() such that each time Button 1 is clicked a new random number is shown in the random_num div. 
 
 1. Under Button 1 and the random_num div, add another button, Button 2, and a blue svg circle. Button 2 and the circle should be side-by-side on the webpage. Add functionality such that when Button 2 is clicked the circle changes color. If the circle is blue, clicking Button 2 should make it green. If the circle is green, clicking Button 2 should make it blue. You may use CSS or inline styling to achieve this functionality.    
 
